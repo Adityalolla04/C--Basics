@@ -1,0 +1,15 @@
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/bin/Debug/net7.0/C# fundementals
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/bin/Debug/net7.0/C# fundementals.deps.json
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/bin/Debug/net7.0/C# fundementals.runtimeconfig.json
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/bin/Debug/net7.0/C# fundementals.dll
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/bin/Debug/net7.0/C# fundementals.pdb
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/C# fundementals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/C# fundementals.AssemblyInfoInputs.cache
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/C# fundementals.AssemblyInfo.cs
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/C# fundementals.csproj.CoreCompileInputs.cache
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/C# fundementals.sourcelink.json
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/C# fundementals.dll
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/refint/C# fundementals.dll
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/C# fundementals.pdb
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/C# fundementals.genruntimeconfig.cache
+/Users/adityasrivatsav/Documents/GitHub/C--Basics/C# fundementals/obj/Debug/net7.0/ref/C# fundementals.dll
